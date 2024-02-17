@@ -76,9 +76,11 @@ html,body{
     justify-content: center;
     gap: 10px;
 }
-#bottom i{
-    color: white;
-    font-size: 10px;
+#bottom div {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 0.2px solid white;
     cursor: pointer;
 
 }
